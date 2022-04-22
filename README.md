@@ -57,7 +57,7 @@ Para desarrollar el examen se debe realizar lo siguiente:
 | ------------------------------------------------------------ | ------- |
 | [ **ESTÁNDARES** ] Uso correcto de nombre de variables, métodos y clases con estructura correcta. | 10      |
 | [ **POO** ] Uso correcto de la herencia, el polimorfismo y el encapsulamiento | 15      |
-| [ **SOLID** ] Implementación correcta de los principios de diseño. | 20      |
+| [ **SOLID** ] Implementación correcta de los principios de diseño (**S**RP – Single Responsibility Principle, **O**CP – Open/Closed Principle, **L**SP – Liskov's Substitution Principle) | 20      |
 | [ **SOLID - DESCRIPCIÓN** ] Describir la aplicación de los principios de SOLID implementados en este ejercicio. **Incluirlos como comentarios dentro del código.** | 15      |
 | [ **UML** ] Diseño del diagrama de clases utilizando el respectivo estándar de desarrollo. | 10      |
 | [ **CÁLCULOS** ] Implementación correcta de los procesos de cálculo. | 15      |
