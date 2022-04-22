@@ -1,9 +1,9 @@
 # Programación 2 - Examen Parcial 1
 
-| CODIGO: EIF204           | ESCUELA DE INFORMÁTICA       |
-| ------------------------ | ---------------------------- |
-| NOMBRE: PROGRAMACIÓN III | PROFESOR: Maikol Guzmán Alán |
-| VALOR: 20% - Tiempo Aproximado 8 horas               | Puntaje total:  100 puntos   |
+| CODIGO: EIF204                         | ESCUELA DE INFORMÁTICA       |
+| -------------------------------------- | ---------------------------- |
+| NOMBRE: PROGRAMACIÓN III               | PROFESOR: Maikol Guzmán Alán |
+| VALOR: 10% - Tiempo Aproximado 8 horas | Puntaje total:  100 puntos   |
 
 ## Temas a evaluar
 
