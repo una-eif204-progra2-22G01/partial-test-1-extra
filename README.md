@@ -2,8 +2,8 @@
 
 | CODIGO: EIF204                         | ESCUELA DE INFORMÁTICA       |
 | -------------------------------------- | ---------------------------- |
-| NOMBRE: PROGRAMACIÓN III               | PROFESOR: Maikol Guzmán Alán |
-| VALOR: 10% - Tiempo Aproximado 8 horas | Puntaje total:  100 puntos   |
+| NOMBRE: PROGRAMACIÓN II                | PROFESOR: Maikol Guzmán Alán |
+| VALOR: 20% - Tiempo Aproximado 8 horas | Puntaje total:  100 puntos   |
 
 ## Temas a evaluar
 
